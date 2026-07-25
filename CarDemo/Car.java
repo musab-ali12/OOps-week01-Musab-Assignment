@@ -1,6 +1,6 @@
 /*
- * Student Name: Khubaib Khan
- * Seat No.: B25110006066 | Section: B
+ * Student Name: Syed Musab Ali Rizvi
+ * Seat No.: B25110006156 | Section: B
  * File: Car.java
  * Purpose: Represents a simple daily-use car and controls its state safely.
  */
