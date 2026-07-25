@@ -1,6 +1,6 @@
 # Week 1 OOP Lab Submission
 
-**Khubaib Khan - B25110006066 - Section B**
+**Syed Musab Ali Rizvi - B25110006156 - Section B**
 
 ## Contents
 
