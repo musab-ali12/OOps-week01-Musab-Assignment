@@ -1,6 +1,6 @@
 /*
- * Student Name: Khubaib Khan
- * Seat No.: B25110006066 | Section: B
+ * Student Name: Syed Musab Ali Rizvi
+ * Seat No.: B25110006156 | Section: B
  * File: Calculator.java
  * Purpose: Provides basic and extended calculator operations.
  */
