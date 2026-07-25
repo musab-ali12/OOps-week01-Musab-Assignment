@@ -1,0 +1,66 @@
+WEEK 1 OOP LAB - SAMPLE OUTPUT
+Student: Khubaib Khan | Seat No.: B25110006066 | Section: B
+
+================ CAR DEMO ================
+=== BMW journey ===
+BMW engine started.
+BMW is driving at 30 km/h.
+BMW speeds up to 50 km/h.
+BMW turns left.
+BMW music system is now playing.
+
+--- BMW state ---
+Color       : Black
+Speed       : 50 km/h
+Engine on   : true
+Fuel level  : 78%
+Direction   : Left
+Music       : Playing
+
+=== Honda journey ===
+Honda Civic cannot move because the engine is off.
+Honda Civic engine started.
+Honda Civic is driving at 30 km/h.
+Honda Civic turns right.
+Honda Civic slows down to 20 km/h.
+
+--- Honda Civic state ---
+Color       : White
+Speed       : 20 km/h
+Engine on   : true
+Fuel level  : 34%
+Direction   : Right
+Music       : Off
+
+=== Final BMW check ===
+BMW engine stopped. Speed reset to 0 km/h.
+
+--- BMW state ---
+Color       : Black
+Speed       : 0 km/h
+Engine on   : false
+Fuel level  : 78%
+Direction   : Left
+Music       : Playing
+
+============= CALCULATOR DEMO =============
+=== Basic operations ===
+12 + 8 = 20.0
+12 - 8 = 4.0
+12 x 8 = 96.0
+12 / 4 = 3.0
+
+=== Extended operations: normal cases ===
+17 % 5 = 2.0
+2 raised to 5 = 32.0
+Average of 10, 20, 30, 40 = 25.0
+Maximum of 7, 19, 4, 12 = 19.0
+
+=== Extended operations: edge cases ===
+2 raised to 0 = 1.0
+Average of one value (25) = 25.0
+Maximum of one value (-8) = -8.0
+Modulus edge case: Modulus by zero is not allowed.
+Division edge case: Division by zero is not allowed.
+Average edge case: At least one number is required for an average.
+Maximum edge case: At least one number is required to find a maximum.
