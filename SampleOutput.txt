@@ -1,5 +1,5 @@
 WEEK 1 OOP LAB - SAMPLE OUTPUT
-Student: Khubaib Khan | Seat No.: B25110006066 | Section: B
+Student: Syed Musab Ali Rizvi | Seat No.: B25110006156 | Section: B
 
 ================ CAR DEMO ================
 === BMW journey ===
