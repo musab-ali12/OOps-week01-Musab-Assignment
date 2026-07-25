@@ -1,7 +1,7 @@
 # Object-Oriented Programming - Week 1 Lab
 
-**Student:** Khubaib Khan  
-**Seat No.:** B25110006066  
+**Student:** Syed Musab Ali Rizvi 
+**Seat No.:** B25110006156 
 **Section:** B  
 **Lab:** 01
 
